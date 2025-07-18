@@ -2,8 +2,6 @@
 
 This Power BI project analyzes a shipping company’s operational and financial performance using global shipment data. It includes data modeling, DAX measures, visual storytelling, and professional dashboard design.
 
----
-
 ## 📊 Dashboard Overview
 
 ### 1. Executive Summary
@@ -24,9 +22,7 @@ This Power BI project analyzes a shipping company’s operational and financial 
 - Monthly shipment and revenue trends
 - Visuals: Area chart, Line + Column combo charts
 - Sorted by proper date hierarchy
-
----
-
+  
 ## 🔧 Key Features
 
 - ✅ Cleaned and transformed raw shipment data using Power Query
